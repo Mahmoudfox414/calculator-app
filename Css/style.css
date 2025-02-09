@@ -1,0 +1,23 @@
+.culculator_container{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.main{
+    width: 100%;
+    height: auto;
+    background-color: rgb(31, 34, 235);
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.btn {
+    height: auto;
+    width: 40px;
+    margin: 10px;
+    font-size: 15px;
+    color: aliceblue;
+    text-align: center;
+}
